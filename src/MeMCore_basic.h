@@ -42,13 +42,12 @@
 /* Supported Modules drive needs to be added here */
 
 #include "MeUltrasonicSensor.h"
-#include "MeMbotDCMotor.h"
+#include "MeDCMotor.h"
 #include "MeRGBLed.h"
 
 #include "MeLineFollower.h"
 #include "MeLightSensor.h"
 #include "MeSerial.h"
-#include "MeInfraredReceiver.h"
 #include "MeIR.h"
 #include "MeLEDMatrix.h"
 #include "MeBuzzer.h"
